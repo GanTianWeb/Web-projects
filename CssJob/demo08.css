@@ -1,0 +1,33 @@
+p{
+    display: inline-block;
+    /* display: inline; */
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.p1{
+    color:#fff;
+    background: #3adfbb;
+    margin-left: 30%;
+}
+.p2{
+    background: yellow;
+    
+}
+.p3{
+   
+    background: orange;
+   
+}
+.p4{
+    color:#fff;
+    background: red;
+    
+}
+.p5{
+    color:#fff;
+    background: green;
+    
+}

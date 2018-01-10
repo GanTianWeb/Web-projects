@@ -1,0 +1,30 @@
+p{
+    width: 300px;
+   
+    
+    font-size: 14px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 50px;
+
+}
+.p1{
+    border: 1px solid gray;
+}
+.p2{
+    background: pink;
+    border-left: 3px solid red;
+    border-right: 3px solid red;
+}
+.p3{
+    background: #f3dcb0;
+    border-top: 3px solid yellow;
+    border-bottom: 3px solid yellow;
+}
+.p4{
+    background: #b2f3bd;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    border-bottom: 3px solid green;
+}

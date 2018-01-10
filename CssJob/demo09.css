@@ -1,0 +1,19 @@
+*{
+    border-collapse: collapse
+}
+
+td{
+    width: 100px;
+    padding-left: 10px;
+}
+
+th {
+width: 100px;
+}
+.trth{
+    color:white;
+    background: green;
+}
+.trg {
+    background: #ccd1cc;
+    }
